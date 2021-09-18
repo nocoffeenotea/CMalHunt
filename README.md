@@ -1,5 +1,5 @@
 # CryptocMalHunt
-python script for implement of 'Cryptocurrency Mining Malware Detection Based on Static Analysis in Real-world Environment'
+python script for implement of 'Cryptocurrency Malware Detection in Real-world Environment: Based on Multi-Results Stacking Learning'
 
 
 ## Usage
