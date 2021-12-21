@@ -1,4 +1,4 @@
-# CryptocMalHunt
+# CMalHunt
 python script for implement of 'Cryptocurrency Malware Detection in Real-world Environment: Based on Multi-Results Stacking Learning'
 
 
